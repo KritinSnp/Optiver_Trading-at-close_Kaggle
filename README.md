@@ -1,4 +1,4 @@
-# [Kaggle competition]
+# Kaggle competition
 ## Optiver - Trading at close
 
 - This competition processes for 3 months (Oct - Dec 2023) with my university colleagues. 
